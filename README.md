@@ -2,17 +2,19 @@
 
 ## Windows CLI
 
-![Screenshot_1](https://user-images.githubusercontent.com/70942871/207313644-baf27ee2-debf-48a2-ad25-01d8275a9daf.png)
+
+![Windows](https://user-images.githubusercontent.com/70942871/208975804-b06fc0dc-826c-4fe5-94c6-33a33aa9f81a.png)
 
 
 ## Linux
 Для тестирование можно запустить в любом компиляторе Linux C
 
-![Screenshot_2](https://user-images.githubusercontent.com/70942871/207313749-da30bb77-98d9-434a-917c-34b7b1b54ab2.png)
+![Linux](https://user-images.githubusercontent.com/70942871/208975836-44bdf6ef-235d-4f3c-9740-d5e165fa2028.png)
 
 
 ## Web
 
-![Screenshot_3](https://user-images.githubusercontent.com/70942871/207313802-4f457b61-f9bf-4def-9564-80a473ce1068.png)
+
+![Web](https://user-images.githubusercontent.com/70942871/208975866-93ad1b79-04bd-4f31-9740-8b84a5a304b6.png)
 
 
